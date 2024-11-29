@@ -20,9 +20,6 @@ Iâ€™m working hard to weave together users, products, colleagues, and growth! ðŸ
 <img src="https://img.shields.io/badge/styled--components/emotion-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 </div>
-<div>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
-</div>
 
 </br>
 
